@@ -4,11 +4,11 @@
 </p align="center">
 <!--- Picture --->
 <p align="center">
-<img src="https://github.com/Skeryx/Skeryx/blob/main/picture/rep.gif" />
+<img src="https://github.com/Skeryxx/Skeryxx/blob/main/picture/rep.gif" />
   </p align="center">
 <!--- Stat Github --->
-<img align="left" width="430" height="auto" alt="Skeryx's github stats" src="https://github-readme-stats.vercel.app/api?username=Skeryxx&hide=_border=true&title_color=cf0404&icon_color=cf0404&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
-<img align="right" width="359" height="auto" alt="Skeryx's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skeryxx&hide=_border=true&title_color=cf0404&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
+<img align="left" width="430" height="auto" alt="Skeryxx's github stats" src="https://github-readme-stats.vercel.app/api?username=Skeryxx&hide=_border=true&title_color=cf0404&icon_color=cf0404&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
+<img align="right" width="359" height="auto" alt="Skeryxx's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skeryxx&hide=_border=true&title_color=cf0404&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
 </h2>
 <!--- Snake Graph --->
 <p align="center">

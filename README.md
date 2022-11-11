@@ -12,7 +12,7 @@
 </h2>
 <!--- Snake Graph --->
 <p align="center">
-<img src="https://github.com/Skeryx/Skeryx/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </p>
 <br>
 <br>

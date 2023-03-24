@@ -1,4 +1,4 @@
-<p align="center"> Hallo, mein Name ist Skeryx und ich programmiere gerne mit Java. </p align="center">
+<p align="center"> Hey👋 </p align="center">
 <p align="center">
 
 </p align="center">
